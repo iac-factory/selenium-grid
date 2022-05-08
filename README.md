@@ -21,8 +21,12 @@ docker-compose --file ./grid/Selenium-Grid-Recording.Yaml up
 ### Local Runtime ###
 
 ```bash
-python3 -m src
+python3 -m test
 ```
+
+### Website ###
+
+- http://localhost:4444
 
 ## Teardown ##
 
